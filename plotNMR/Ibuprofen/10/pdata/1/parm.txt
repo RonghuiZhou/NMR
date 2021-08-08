@@ -1,0 +1,39 @@
+
+Current Data Parameters
+NAME     HTNMR_Ibuprofen              
+EXPNO                10              
+PROCNO                1              
+
+F2 - Acquisition Parameters
+Date_          20200718              
+Time              12.22 h            
+INSTRUM           spect              
+PROBHD   Z116098_0797 (              
+PULPROG            zg30              
+TD                32768              
+SOLVENT            DMSO              
+NS                   16              
+DS                    2              
+SWH            8012.820 Hz           
+FIDRES         0.489064 Hz           
+AQ            2.0447233 sec          
+RG               129.18              
+DW               62.400 usec         
+DE                 6.50 usec         
+TE                298.2 K            
+D1           1.00000000 sec          
+TD0                   1              
+SFO1        400.5824736 MHz          
+NUC1                 1H              
+P0                 3.33 usec         
+P1                10.00 usec         
+PLW1        14.80900002 W            
+
+F2 - Processing parameters
+SI                16384              
+SF          400.5800013 MHz          
+WDW                  EM              
+SSB      0              
+LB                 0.30 Hz           
+GB       0              
+PC                 1.00              

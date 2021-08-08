@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PeakList>
+  <PeakList1D>
+    <PeakList1DHeader creator="SA-PRD-nmr42" date="2020-07-18T12:22:23.267-04:00" expNo="10" name="HTNMR_Ibuprofen" owner="" procNo="1" source="C:/Bruker/TopSpin3.6.0/data/NA-SA-PRD-nmr42/nmr">
+      <PeakPickDetails>F1=16.173321ppm, F2=-3.829726ppm, MI=0.10cm, MAXI=10000.00cm, PC=1.000
+      </PeakPickDetails>
+    </PeakList1DHeader>
+    <Peak1D F1="7.180053" intensity="3.510756e-001" type="0"/>
+    <Peak1D F1="7.160172" intensity="4.332341e-001" type="0"/>
+    <Peak1D F1="6.970403" intensity="4.126171e-001" type="0"/>
+    <Peak1D F1="6.950436" intensity="3.394147e-001" type="0"/>
+    <Peak1D F1="3.372555" intensity="1.500000e+001" type="0"/>
+    <Peak1D F1="3.236750" intensity="1.637240e-001" type="0"/>
+    <Peak1D F1="3.219057" intensity="1.689851e-001" type="0"/>
+    <Peak1D F1="2.506171" intensity="4.441787e-001" type="0"/>
+    <Peak1D F1="2.502074" intensity="5.790098e-001" type="0"/>
+    <Peak1D F1="2.497710" intensity="4.221354e-001" type="0"/>
+    <Peak1D F1="2.374166" intensity="4.036751e-001" type="0"/>
+    <Peak1D F1="2.356405" intensity="4.251700e-001" type="0"/>
+    <Peak1D F1="1.777951" intensity="1.072142e-001" type="0"/>
+    <Peak1D F1="1.228757" intensity="7.714314e-001" type="0"/>
+    <Peak1D F1="1.210889" intensity="7.768643e-001" type="0"/>
+    <Peak1D F1="0.856508" intensity="1.675104e+000" type="0"/>
+    <Peak1D F1="0.839867" intensity="1.606626e+000" type="0"/>
+    <Peak1D F1="-0.000610" intensity="8.180365e-001" type="0"/>
+  </PeakList1D>
+</PeakList>

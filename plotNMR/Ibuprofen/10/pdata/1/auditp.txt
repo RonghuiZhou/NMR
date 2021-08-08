@@ -1,0 +1,40 @@
+##TITLE= Audit trail, TopSpin 3.6.0
+##JCAMPDX= 5.01
+##ORIGIN= Bruker BioSpin GmbH
+##OWNER= SA-PRD-nmr42
+$$ //rndusshnas02/ds_disc_chem/AnalyticalChem-SH/NMR/RAW_DATA/data/NA-SA-PRD-nmr42/nmr/HTNMR_Ibuprofen/10/pdata/1/auditp.txt
+##AUDIT TRAIL=  $$ (NUMBER, WHEN, WHO, WHERE, PROCESS, VERSION, WHAT)
+(   1,<2020-07-18 12:22:21.484 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<go4>,<TopSpin 3.6.0>,
+      <created by zg
+	started at 2020-07-18 12:21:23.469 -0400,
+	POWCHK enabled, PULCHK disabled,
+       configuration hash MD5:
+       DF 42 18 03 5C 9C EE 0F 37 2A 2F D6 74 F2 A8 FB
+       data hash MD5: 32K
+       71 B4 D1 8D 0F EA B0 F2 3D E6 3B C6 EB 53 37 21>)
+(   2,<2020-07-18 12:22:21.543 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<audit>,<TopSpin 3.6.0>,
+      <user comment:
+       ICON-NMR User ID: NA\SA-PRD-nmr42
+       data hash MD5: 32K
+       71 B4 D1 8D 0F EA B0 F2 3D E6 3B C6 EB 53 37 21>)
+(   3,<2020-07-18 12:22:23.113 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<proc1d>,<TopSpin 3.6.0>,
+      <Start of raw data processing
+       ef LB = 0.3 FT_mod = 6 PKNL = 1 SI = 16K 
+       data hash MD5: 16K
+       0E 40 E0 A8 47 0A C9 52 F7 A6 EF A4 04 6B 6A C9>)
+(   4,<2020-07-18 12:22:23.153 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<proc1d>,<TopSpin 3.6.0>,
+      <apk 
+       data hash MD5: 16K
+       05 38 44 7E 84 42 1C 48 9A E4 4B 5D F1 10 24 30>)
+(   5,<2020-07-18 12:22:23.216 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<proc1d>,<TopSpin 3.6.0>,
+      <abs ABSG = 5 
+       data hash MD5: 16K
+       76 8C 92 D0 E1 0C 03 FA C3 39 9E C9 08 F5 97 3E>)
+(   6,<2020-07-18 12:22:25.049 -0400>,<NA\SA-PRD-nmr42>,<WPRDUSCZC7388>,<dirdata>,<TopSpin 3.6.0>,
+      <wrpa from 1 10 "HTNMR_Ibuprofen" "C:/Bruker/TopSpin3.6.0/data/NA-SA-PRD-nmr42/nmr"
+       data hash MD5: 16K
+       76 8C 92 D0 E1 0C 03 FA C3 39 9E C9 08 F5 97 3E>)
+##END=
+
+$$ hash MD5
+$$ 78 66 9C 58 EE 09 4A 53 76 1F B2 43 0E 03 34 47
